@@ -11,20 +11,9 @@ This project involves code and is implemented in a Python-based Google Colab not
 
 The experiments compare a clean knowledge base, a poisoned knowledge base, removal of poisoned documents, and two behavioural unlearning adaptations. The implementation uses an embedding model for retrieval and a language model to generate responses.
 
-## Technical Evidence Provided
-
-The submitted project materials may include:
-
-* **Google Colab notebook (`.ipynb`):** Python implementation, experimental setup, and execution outputs.
-* **Results files (`.csv`):** Query-level retrieval results, generated answers, and evaluation labels, where included.
-* **Results tables and figures:** Comparisons of poisoned information, targeted answer accuracy, and the effect on legitimate knowledge.
-* **Label review and validation evidence:** Checks used to assess the consistency of answer classifications and experimental results, where included.
-
-These materials provide evidence of the implementation, experimental process, and evaluation findings.
-
 ## Scope and Limitations
 
-The project evaluates behavioural unlearning in a controlled RAG environment. It does not implement or evaluate permanent deletion of knowledge from a model’s internal weights. The findings are limited to the selected model, synthetic dataset, retrieval configuration, and experimental conditions.
+The project evaluates behavioural unlearning in a controlled RAG environment. It does not implement or evaluate permanent deletion of knowledge from a model’s internal weights. The findings are limited to the selected model, synthetic dataset, retrieval configuration and experimental conditions.
 
 ## Reproducibility
 
