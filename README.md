@@ -1,5 +1,5 @@
 # RAG_poisoning_unlearning
-# README — Machine Unlearning Evaluation in RAG Systems
+# Machine Unlearning Evaluation in RAG Systems
 
 ## Project Overview
 
